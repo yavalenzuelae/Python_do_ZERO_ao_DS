@@ -52,7 +52,7 @@ def overview_data(data):
         data = data.copy()
 
     st.header('Visão Geral dos Dados')
-    st.caption('OBS: A última columa, price_sqft, corresponde ao preço por pé quadrado do imóvel. Este atributo é derivado das colunas price (preço) e sqft_lot (área do loteamento).')
+    st.caption('A última columa, price_sqft, da tabela abaixo corresponde ao preço por pé quadrado do imóvel. Este atributo é derivado das colunas price (preço) e sqft_lot (área do loteamento).')
     st.dataframe(data.head())
     
     c1, c2 = st.columns((1, 1))
