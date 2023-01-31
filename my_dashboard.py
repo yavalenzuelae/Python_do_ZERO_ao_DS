@@ -40,7 +40,7 @@ def overview_data(data):
     f_zipcode = st.sidebar.multiselect('Selecionar Regiões', data['zipcode'].unique())
 
     st.title('Características do Portfólio de Imóveis da House Rocket')
-    st.subheader('As informações a seguir correspondem aos dados sem limpeza prévia coletados do site: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction.')
+    st.subheader('As informações a seguir correspondem aos dados coletados do site: https://www.kaggle.com/datasets/harlfoxem/housesalesprediction.')
     
     if (f_zipcode != []) and (f_attributes != []):
         data = data.loc[data['zipcode'].isin(f_zipcode), f_attributes]
