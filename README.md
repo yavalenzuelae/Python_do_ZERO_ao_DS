@@ -70,10 +70,12 @@ Se considerarmos os imóveis em condições regulares para compra, se reformam e
 
 Sobre as condiciones mencionadas anteriormente, o percentual mínimo de imóveis que a HR deve vender para o projeto se pagar é de 38%. Ou, 3976 imóveis de 10498. A planilha 04 mostra a ordem, preço e data de venda em que se deveriam vender os imóveis, entre outros atributos.
 
+Como parte deste projeto também foi criado um *dashboard* interativo na nuvem, usando o Streamlit Cloud. Para ver o modelo em produção visite o link: https://yavalenzuelae-python-do-zero-ao-ds-my-dashboard-9315bj.streamlit.app/.   
+
 ## Conclusão
 
-A EDA no portfólio da HR permitiu encontrar de uma forma eficiente os imóveis recomendados para compra e venda. Dos 21416 imóveis considerados no portfólio 10498 são recomendados, 49% do total. O lucro estimado é de 89% sobre o investimento nos imóveis recomendados e, se um 38% dos imóveis comprados são vendidos, se consegue pagar o projeto.
+A EDA no portfólio da HR permitiu encontrar os imóveis recomendados para compra e venda. Dos 21416 imóveis considerados no portfólio 10498 são recomendados, 49% do total. O lucro estimado é de 89% sobre o investimento nos imóveis recomendados e, se um 38% dos imóveis comprados são vendidos, se consegue pagar o projeto.
 
 ## Perspectivas
 
-Desenvolvimento de uma solução comparativa utilizando Aprendizado de Máquina (*Machine Learning*).    
+Desenvolvimento de um modelo de Aprendizado de Máquina (*Machine Learning*) para previsão de preços de venda.    
