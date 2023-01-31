@@ -78,4 +78,4 @@ A EDA no portfólio da HR permitiu encontrar os imóveis recomendados para compr
 
 ## Perspectivas
 
-Desenvolvimento de um modelo de Aprendizado de Máquina (*Machine Learning*) para previsão de preços de venda.    
+Desenvolvimento de um modelo de aprendizado de máquina para previsão de preços de venda.    
