@@ -11,7 +11,7 @@ De acordo com o anterior, se busca dar resposta às seguintes perguntas:
 1. Quais são os imóveis que a HR deveria comprar e por qual preço?
 2. Uma vez a casa comprada, qual o melhor momento para vendê-la e por qual preço?
 3. A HR deveria fazer uma reforma para aumentar o preço da venda? Quais seriam as sugestões de mudanças? Qual o incremento no preço dado por cada opção de reforma?
-4. Dos imóveis comprados quantos e quais a HR vender, como mínimo, para o projeto se pagar?
+4. Dos imóveis comprados quantos e quais a HR deve vender, como mínimo, para o projeto se pagar?
 
 ## Premissas de Negócio
 
